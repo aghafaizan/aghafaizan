@@ -1,3 +1,4 @@
+<html>
 <h1 align="center">Hi 👋, I'm Faizan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -35,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghafaizan&show_icons=true&locale=en" alt="aghafaizan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aghafaizan&" alt="aghafaizan" /></p>
+</html>
